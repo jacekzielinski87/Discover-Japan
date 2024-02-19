@@ -1,4 +1,5 @@
 import styles from "./Homepage.module.css";
+import {Link} from "./react-router-dom";
 
 
 function Homepage() {
@@ -12,6 +13,9 @@ function Homepage() {
             </h1>
             <h2>Odkryj kulturę, wierzenia oraz folklor kraju kwitnącej wiśni.</h2>
             <button>Zacznij odkrywać 🔴 </button>
+            <Link to="ToriiGate" className="cta">
+                Start tracking now
+            </Link>
         </section>
         </main>
     )
