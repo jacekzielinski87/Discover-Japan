@@ -1,0 +1,80 @@
+{
+    "place": [
+        {
+        "id":1,
+        "cityName":"Tokyo",
+        "population":"13.96 million",
+        "island":"Honshu",
+        "description": ""
+        },
+        {
+        "id":2,
+        "cityName":"Kyoto",
+        "population":"1.475 million",
+        "island":"Honshu",
+        "region":"Kansai",
+        "prefecture":"Kyoto prefecture",
+        "description": ""
+        },
+        {
+        "id":3,
+        "cityName":"Yokohama",
+        "population":"3.725 million",
+        "description": ""
+        },
+        {
+        "id":4,
+        "cityName":"Osaka",
+        "population":"2.691 million",
+        "island":"Honshu",
+        "region":"Kansai",
+        "prefecture":"Osaka prefecture",
+        "description": ""
+        },
+        {
+        "id":5,
+        "cityName":"Sapporo",
+        "population":" 1.952 million",
+        "description": ""
+        },
+        {
+        "id":6,
+        "cityName":"Okinawa",
+        "population":"1.457 million",
+        "description": ""
+        },
+        {
+        "id":7,
+        "cityName":"Hiroshima",
+        "population":"1.194 million",
+        "description": ""
+        },
+        {
+        "id":8,
+        "cityName":"Nagoya",
+        "population":" 2.296 million ",
+        "description": ""
+        },
+        {
+        "id":9,
+        "cityName":"Fukuoka",
+        "population":"1.539 million",
+        "prefecture":"Fukuoka prefecture",
+        "description": ""
+        },
+        {
+        "id":10,
+        "cityName":"Sendai",
+        "population":"1.082 million ",
+        "prefecture":"Miyagi",
+        "description": ""
+        },
+        {
+        "id":11,
+        "cityName":"Sendai",
+        "population":"1.082 million ",
+        "prefecture":"Miyagi",
+        "description": ""
+        },
+    ]
+}
