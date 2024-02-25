@@ -1,0 +1,32 @@
+.AppLayout {
+  height: 100vh;
+  padding: 2.4rem;
+  display: flex;
+  position: relative;
+  background-color: rgb(228, 65, 65);
+}
+
+.AppLayout button {
+  
+  margin: 0 auto;
+  height: 50px;
+  width: 100px;
+  border: 8px solid rgb(255, 255, 255);
+  border-radius: 8px;
+  color: rgb(240, 19, 19);
+}
+
+.AppLayout img {
+  display: grid;
+  position: relative;
+  text-align: center;
+  height: 30vh;
+  border-radius: 16px;
+  margin: 0 auto;
+}
+
+.AppLayout div p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}

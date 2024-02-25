@@ -1,14 +1,16 @@
 import "./App.css";
 import Logo from "./Components/Logo";
+import AppLayout from "./Pages/AppLayout";
 import Homepage from "./Pages/Homepage";
-import ToriiGate from "./Pages/ToriiGate";
+
+
+
+
 
 function App() {
   return (
     <>
-      <Homepage />
-      <Logo/>
-      <ToriiGate/>
+      <AppLayout/>
     </>
   );
 }
