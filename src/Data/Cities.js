@@ -1,5 +1,5 @@
 {
-  "city": [
+  "city" [
     {
         "id": 1,
         "cityName": "Tokyo",
