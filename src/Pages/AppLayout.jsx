@@ -7,16 +7,13 @@ function AppLayout() {
     return (
         <div className={styles.AppLayout}>
             <button>Cities</button>
-            <img src= {City}></img>
+            <img src={City} alt="City" />
             <button>Places</button>
-            <img src= {Place}></img>
+            <img src={Place} alt="Place" /> 
             <button>Folklore</button>
-            <img src= {Folklore}></img>
-            <div>
-            <p>Discover Japan Today !</p>
-            </div>
+            <img src={Folklore} alt="Folklore" />
         </div>
-    )
+    );  
 }
 
-export default AppLayout
+export default AppLayout;  
